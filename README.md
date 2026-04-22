@@ -58,4 +58,4 @@ G40,high,yes,excellent,yes
 
 
 ### RESULT: 
-thus the code ran successfully
+Thus the program for generating transaction datasets has been developed, and preprocessing has been accomplished successfully.
